@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    border-radius: 18px;
+    width:95%;
+    margin: 10px;
+    font-family: "Montserrat", sans-serif;
+  
+}
+.appHeader{
+    width: fit-content;
+    margin:0px 10px;
+}
+
+.logo{
+    width:20%;
+}
+
+.cover{
+    width:100%;
+}
+
+.caption{
+    text-align:center;
+    margin-top: -40%;
+    color: white;
+    font-weight: 600;
+  text-shadow: 2px 2px black;
+  letter-spacing: 1.8px;
+}
+
+.apply{
+    background-color: orange;
+    color: white;
+    font-family: inherit;
+    margin-left: 40%;
+    border-radius: 18px;
+    padding: 10px;
+}
+
+.how-container{
+    margin-top: 200px;    
+    text-align: center;
+}
+
+.steps{
+    display: flex;
+    gap:100px;
+    justify-content: center;
+
+}
+.steps img{
+    width: 20%;
+}
+
+
+.details{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+}
+.details img{
+    width: 40%;
+
+}
+.text{
+    width:50%;
+}
+.how-button{
+    border-radius: 17px;
+    background-color: rgb(55, 55, 197);
+    color: white;
+
+}
+
+.footer{
+    width: 100%;
+}
